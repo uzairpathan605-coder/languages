@@ -1,0 +1,6 @@
+{
+  "name": "BIZOlingo Language Academy",
+  "description": "Language learning academy app for Urdu speakers learning German (A1-C2 for Ausbildung and all jobs), English, and 13 world languages with speech, lessons, grammar tips, and AI tutor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
